@@ -1,3 +1,20 @@
+#mmpose
+2023/06/04 16:36:56 - mmengine - WARNING - The prefix is not set in metric class PCKAccuracy.
+2023/06/04 16:36:56 - mmengine - WARNING - The prefix is not set in metric class AUC.
+2023/06/04 16:36:56 - mmengine - WARNING - The prefix is not set in metric class NME.
+2023/06/04 16:36:58 - mmengine - INFO - Load checkpoint from work_dirs/rtmpose-s-ear/best_PCK_epoch_250.pth
+2023/06/04 16:36:59 - mmengine - INFO - Epoch(test) [1/6]    eta: 0:00:08  time: 1.770280  data_time: 0.737366  memory: 112  
+2023/06/04 16:36:59 - mmengine - INFO - Epoch(test) [2/6]    eta: 0:00:03  time: 0.891111  data_time: 0.370008  memory: 112  
+2023/06/04 16:37:00 - mmengine - INFO - Epoch(test) [3/6]    eta: 0:00:02  time: 0.716784  data_time: 0.366549  memory: 112  
+2023/06/04 16:37:00 - mmengine - INFO - Epoch(test) [4/6]    eta: 0:00:01  time: 0.701786  data_time: 0.437011  memory: 112  
+2023/06/04 16:37:01 - mmengine - INFO - Epoch(test) [5/6]    eta: 0:00:00  time: 0.698668  data_time: 0.485164  memory: 112  
+2023/06/04 16:37:01 - mmengine - INFO - Epoch(test) [6/6]    eta: 0:00:00  time: 0.610743  data_time: 0.431655  memory: 61  
+2023/06/04 16:37:01 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 16:37:01 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 16:37:01 - mmengine - INFO - Evaluating AUC...
+2023/06/04 16:37:01 - mmengine - INFO - Evaluating NME...
+2023/06/04 16:37:01 - mmengine - INFO - Epoch(test) [6/6]    coco/AP: 0.756593  coco/AP .5: 1.000000  coco/AP .75: 0.970297  coco/AP (M): -1.000000  coco/AP (L): 0.756593  coco/AR: 0.788095  coco/AR .5: 1.000000  coco/AR .75: 0.976190  coco/AR (M): -1.000000  coco/AR (L): 0.788095  PCK: 0.975057  AUC: 0.128855  NME: 0.040932  data_time: 0.431655  time: 0.610743
+![826d1fa111ad6700259dae2b639280c](https://github.com/jianyuhaohai/task1/assets/104774790/e8d5c75d-9ebc-4074-a782-cc1e1c55aeba)
 
 
 
